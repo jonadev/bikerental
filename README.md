@@ -10,6 +10,7 @@ The `RentalService` accepts a list of rents which has a trait as attribute that 
 Prerequisites: GIT, SBT, Scala
 
 1- Open command line and clone the project with GIT.
+
 2- Navigate into the project folder and run the command bellow
 
     sbt test
